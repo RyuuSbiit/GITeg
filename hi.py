@@ -1,2 +1,2 @@
-with open("Hello.txt", 'w') as file:
-    print('Hello WRLD')
+with open("text.txt", 'w') as file:
+    file.write('Hello WRLD')
